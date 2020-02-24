@@ -1,0 +1,23 @@
+commit 33046d7ec3831bb1f093648ad925022ff263a8a1
+Author: MaxineLiu <rliu13@guelph.ca>
+Date:   Sun Feb 23 22:24:35 2020 -0500
+
+    added gitignore
+
+commit 0863cd266259e96f93b45b0a3b9b27f1769d4082
+Author: MaxineLiu <rliu13@guelph.ca>
+Date:   Sun Feb 23 22:23:20 2020 -0500
+
+    modified readme.txt
+
+commit 157398a95d02f8fc4455da5a6cb5bb4454ee828a
+Author: MaxineLiu <rliu13@guelph.ca>
+Date:   Sun Feb 23 21:57:35 2020 -0500
+
+    added two files
+
+commit 0380e017263508c0c33c91a1da73526a3f6c9ce1
+Author: MaxineLiu <rliu13@guelph.ca>
+Date:   Sun Feb 23 21:54:33 2020 -0500
+
+    added readme file
